@@ -78,7 +78,7 @@ Restful Booker
 ```
 Daraz
 ```
-`jmeter -n -t daraz_blazemeter.jmx -l report\daraz_blazemeter_.jtl`
+`jmeter -n -t daraz_blazemeter.jmx -l report\daraz_blazemeter.jtl`
 - Repeat the above command for different test scenarios as needed.
 
 3. **Generate HTML Report:**
