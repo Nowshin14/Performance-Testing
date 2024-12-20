@@ -114,3 +114,8 @@ Performance Testing on Daraz website using Blazemeter
 ![daraz(1)](https://github.com/Nowshin14/Performance-Testing/blob/44fd033a43be6231193a9e72c24e7bf31cc8b5f2/assets/daraz-1.png)
 
 ![daraz(2)](https://github.com/Nowshin14/Performance-Testing/blob/44fd033a43be6231193a9e72c24e7bf31cc8b5f2/assets/daraz-2.png)
+
+```
+Performance Testing on chaldal website using Lighthouse
+```
+![chaldal(1)](https://github.com/Nowshin14/Performance-Testing/blob/42e9d6bbd8ba840df5784ca8354677e1cbd67f3f/assets/chaldal.png))
